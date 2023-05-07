@@ -1,0 +1,436 @@
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 70s
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now.70s.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Great TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/true.ent.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&amp;ads.channel_id=604bf68f499957002d574f45&amp;ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.dnt=0
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Iqra TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",RTE One
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rte.1.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Itv Granada
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.granada.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="Undefined",Akaal TV,UK | Akaal TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnn.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Virgin Media Three
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/virgin.media.three.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Craft Store TV (720p)
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",GB News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/gb.news.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Boomerang UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/boomerang.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Undefined",Channel S (576p) [Not 24/7]
+https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",RTE 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rte.2.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC One Wales
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.one.wales.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://5e075c7a96014ebb9326fe748ea748ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_USWeeklyTV/playlist.m3u8?ads.wurl_channel=836&amp;ads.wurl_name=USWeeklyTV&amp;ads.coppa=0&amp;ads.us_privacy=1---&amp;ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.targetopt=0&amp;ads.plex_token=AXowwV4PZ7mDzhmMsHmH&amp;ads.plex_id=60a9d105d162b9002d05a60e&amp;ads.ua=okhttp%2F4.9.0&amp;ads.app_bundle=com.plexapp.android&amp;ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&amp;ads.gdpr=0&amp;ads.consent=0&amp;ads.device_type=handset&amp;ads.device_id_type=
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC London
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.london.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TCM UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tcm.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Spotlight TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/spotlight.tv.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Animation
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.animation.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cbeebies UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbeebies.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Blaze UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/blaze.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Iqra Bangla (576p)
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.mpd
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cartoon Network UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Deen TV (576p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies (720p)
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Quest Red
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/quest.red.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",QUEST
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/quest.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live_http.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Action
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.action.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Horror Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/horror.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Reality
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.reality.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",360 [HD]
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV West
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.west.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Virgin Media Two
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/virgin.media.two.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",EuroNews UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/euronews.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Live
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.live.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/m1xhwRa.png" group-title="Shop",QVC
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Drama UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/drama.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Film4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/film4.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&amp;feedId=1120-v56&amp;auth-token=1213111&amp;version=sv7.0&amp;deviceId=SDF543&amp;deviceFwVer=4.99?ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.us_privacy=1YNY&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;coppa=1
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 5
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/channel.5.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NHK Worldᴴᴰ
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITVBe
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itvbe.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sporty Stuff TV (720p)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",HGTV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hgtv.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Comedy Central UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/comedy.central.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.1.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Racing UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/racing.tv.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV East
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.east.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News (1080p)
+https://ythls.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/MBZ4sSA.png" group-title="Religious",Fadak TV (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCySVZYvDeRd5HThx8s2yTzg.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",More 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/more4.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Talking Pictures TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/talking.pictures.tv.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC Three
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.three.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ComedyXtra
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/comedyxtra.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Really
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/really.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TimeLineᴴᴰ [Pluto]
+https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Glewed TV
+https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/playlist.m3u8?ads.wurl_channel=495&amp;ads.wurl_name=GlewedTV&amp;ads.us_privacy=1---&amp;ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.targetopt=0&amp;ads.plex_token=AXowwV4PZ7mDzhmMsHmH&amp;ads.plex_id=5eea605474085f0040ddc76d&amp;ads.ua=okhttp%2F4.9.0&amp;ads.app_bundle=com.plexapp.android&amp;ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&amp;ads.gdpr=0&amp;ads.consent=0&amp;ads.device_type=handset&amp;ads.device_id_type=
+#EXTINF:0 tvg-country="UA;GB" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="Undefined;Sports",Nitro Circus,Redbox : Nitro Circus
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Replay
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.two.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Thriller
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.thriller.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC One Northern Ireland
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.one.northern.ireland.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://johnnycarson-zype.amagi.tv/playlistR288p.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Lifetime
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lifetime.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Box Hits
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/box.hits.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/j1ZBAgg.png" group-title="Religious",Islam Channel Urdu
+https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Animal Planet UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/animal.planet.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky MAX
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.one.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 90s
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now90.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nick Toons UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nicktoons.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DMAX
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dmax.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Clubland TV UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/clubland.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.2.uk.m3u8
+#EXTINF:0 tvg-country="UA;GB" tvg-logo="https://i.imgur.com/Fi3klzX.png" group-title="Undefined",pocket.watch,pocket.watch (1080p),pocketwatch,Redbox : pocketwatch
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Food Network UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/food.network.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Travel Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/travel.channel.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&amp;ads.wurl_name=TheDesignNetwork&amp;ads.coppa=0&amp;ads.us_privacy=1---&amp;ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.targetopt=0&amp;ads.plex_token=zhVJhkYiviQfYuzKS--y&amp;ads.plex_id=5f0641d3e8ffda004033b16e&amp;ads.ua=okhttp%2F4.9.0&amp;ads.app_bundle=com.plexapp.android&amp;ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&amp;ads.gdpr=0&amp;ads.consent=0&amp;ads.device_type=handset&amp;ads.device_id_type=
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pop.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TG4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tg4.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/c1gnTho.jpg" group-title="Religious",ACTS TV (360p)
+https://mediagh.us:19360/deliverancetv/deliverancetv.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&amp;live=1&amp;app_bundle=com.plexapp.android&amp;did=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;app_domain=app.plex.tv&amp;app_name=plex&amp;h=&amp;w=&amp;content_title=Tog8X6wK6iweuzGFsz6p&amp;content_series=606605549dbfca002d2ae877&amp;custom4=plex&amp;gdpr=0&amp;device_make=&amp;device_model=&amp;coppa=0&amp;us_privacy=1---&amp;custom_6=Tog8X6wK6iweuzGFsz6p&amp;custom_7=606605549dbfca002d2ae877
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV BASE
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.base.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Comedy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.comedy.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Trace Vault
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/trace.vault.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CITV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/citv.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NASA TV [HD]
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",RTE News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rte.news.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV Meridian Thamesvalley
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.meridian.thamesvalley.uk.m3u8
+#EXTINF:0 tvg-country="UA;GB" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Undefined",Redbox : Unsolved Mysteries,Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Science UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.science.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV HITS
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.hits.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Arts UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.arts.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery History UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.history.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",Sky News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.news.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC One Scot
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.one.scot.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC Two Wales
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.two.wales.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Turbo UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.turbo.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SYFY UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",E! UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ee.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Hits
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.hits.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Undefined",TalkTV (1080p)
+https://ythls.onrender.com/channel/UCm0yTweyAa0PwEIp0l3N_gA.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Witness
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.witness.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UTV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/utv.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Eden
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eden.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOX
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Pick
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pick.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Religious;Undefined",Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",RTE Jr
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rte.jr.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",STV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/stv.central.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EIR Sports 1 UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eir.sports.1.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Magic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/magic.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Forces TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/forces.tv.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Loveworld TV (1080p) [Not 24/7]
+https://cdn.lwuk.live/live/smil:lwukweb.smil/HasBahCa.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Crime Investigation
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/crime.investigation.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Movie Sphere [Pluto]
+https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/hSL6WK5.png" group-title="Religious",Noor TV (480p) [Not 24/7]
+https://live.smartmediahouse.tv:8443/hls/ch1.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC Scotland
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.scotland.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Yesterday
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/yesterday.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",London Live
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/london.live.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&amp;ads.wurl_name=ACCDigitalNetwork&amp;ads.us_privacy=1---&amp;ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.targetopt=0&amp;ads.plex_token=Tog8X6wK6iweuzGFsz6p&amp;ads.plex_id=5f8ee3727c75fa002d9e47c1&amp;ads.ua=okhttp%2F4.9.0&amp;ads.app_bundle=com.plexapp.android&amp;ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&amp;ads.gdpr=0&amp;ads.consent=0&amp;ads.device_type=handset&amp;ads.device_id_type=
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Drama
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.drama.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Atlantic UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.atlantic.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV London
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.london.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNBC UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnbc.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Undefined",Garshom TV (360p) [Not 24/7]
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV Wales
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.hd.wales.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Bloomberg UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bloomberg.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.4.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/6keloXk.png" group-title="Religious",Iqra Bangla (720p)
+https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.one.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nick Jr.Too UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr.too.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",S4C
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/s4c.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gemporia,Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP Max UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pop.max.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Horse &amp; Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nick Jr
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&amp;ads.plex_id=5ef11486d33ab9004048a1cd&amp;ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.dnt=0&amp;ads.us_privacy=1---
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Iran International (1080p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Challenge
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/challenge.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Rangers SPFL
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rangers.sport.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Action
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.action.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Dave
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dave.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Liverpool TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/liverpool.tv.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Sci-fi Horror
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC One North West
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.one.north.west.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Documentaries
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.documntrs.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Greats UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.greats.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Trace Urban
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/trace.urban.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.two.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",The Box
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/the.box.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBBC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbbc.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Premiere
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.premiere.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://f3445d6b0acf47dab6af7097fc57ce6d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PocketWatch/playlist.m3u8?ads.wurl_channel=272&amp;ads.wurl_name=PocketWatch&amp;ads.us_privacy=1---&amp;ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.targetopt=0&amp;ads.plex_token=Tog8X6wK6iweuzGFsz6p&amp;ads.plex_id=5f91c4ea96a391002df9a661&amp;ads.ua=okhttp%2F4.9.0&amp;ads.app_bundle=com.plexapp.android&amp;ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&amp;ads.gdpr=0&amp;ads.consent=0&amp;ads.coppa=1&amp;ads.device_type=handset&amp;ads.device_id_type=
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Shelanu TV (720p)
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Drama
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.drama.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/jxf9gQd.jpg" group-title="Undefined",Kanshi TV,UK | Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC One South
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.one.south..964.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.3.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",Iqra TV (576p)
+https://cdn5.iqsat.net/iqb/b5b9977ca31beabec903ba7b34e1c198.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/Z7XTTod.png" group-title="Undefined",POP Max (576p)
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cartoonito UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoonito.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Family
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.family.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Tiny Pop UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tiny.pop.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="Undefined",The Guardian (720p)
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/channel.4.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Paramount Network UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.network.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Kerrang!
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kerrang.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",360 TV SD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Classic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.classic.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nickelodeon UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.four.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",W
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/w.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/IKHFZDJ.png" group-title="Undefined",Beano TV (720p)
+https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sport",SportyStuff TV (1080p)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 80s
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now80.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Colors
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/colors.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News;Undefined",Arab's Sky News (Backup),makkah,Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",National Geographic UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Select
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.select.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live_http.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",H2 UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/history2.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Jewelery Maker (720p)
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/HasBahCa.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Nature
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.nature.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",KISS
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kiss.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=70&amp;live=1&amp;app_bundle=com.plexapp.android&amp;did=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;app_domain=app.plex.tv&amp;app_name=plex&amp;h=&amp;w=&amp;content_title=Tog8X6wK6iweuzGFsz6p&amp;content_series=5f170d61b898490041b49360&amp;custom4=plex&amp;gdpr=0&amp;device_make=&amp;device_model=&amp;coppa=0&amp;us_privacy=1---&amp;custom_6=Tog8X6wK6iweuzGFsz6p&amp;custom_7=5f170d61b898490041b49360
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/playlist.m3u8?ads.wurl_channel=503&amp;ads.wurl_name=Tankee&amp;ads.us_privacy=1---&amp;ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.targetopt=0&amp;ads.plex_token=Tog8X6wK6iweuzGFsz6p&amp;ads.plex_id=5efe1de5e0b3f5003f5d9f7f&amp;ads.ua=okhttp%2F4.9.0&amp;ads.app_bundle=com.plexapp.android&amp;ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&amp;ads.gdpr=0&amp;ads.consent=0&amp;ads.device_type=handset&amp;ads.device_id_type=
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://133a0f79750743b7bd41950eaec76dc1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MoreU/playlist.m3u8?ads.wurl_channel=881&amp;ads.wurl_name=MoreU&amp;ads.coppa=0&amp;ads.us_privacy=1---&amp;ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.targetopt=0&amp;ads.plex_token=vB1fQVteisRvSpyJtSgH&amp;ads.plex_id=6112a9139894c8002c6cb87f&amp;ads.ua=okhttp%2F4.9.0&amp;ads.app_bundle=com.plexapp.android&amp;ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&amp;ads.gdpr=0&amp;ads.consent=0&amp;ads.device_type=handset&amp;ads.device_id_type=
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",GOLD
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/gold.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nat Geo Wild UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.wild.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Ahlulbayt TV (1080p) [Not 24/7]
+https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="Undefined",Sheffield TV
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.news.channel.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",E4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/e4.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Comedy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.comedy.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky History UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/history.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Virgin Media One
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/virgin.media.one.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EUA
+https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&amp;ads.wurl_name=MaverickBlackCinema&amp;ads.us_privacy=1---&amp;ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.targetopt=0&amp;ads.plex_token=Tog8X6wK6iweuzGFsz6p&amp;ads.plex_id=5ef4e1b40d9ad000423c4430&amp;ads.ua=okhttp%2F4.9.0&amp;ads.app_bundle=com.plexapp.android&amp;ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&amp;ads.gdpr=0&amp;ads.consent=0&amp;ads.device_type=handset&amp;ads.device_id_type=
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC Two Northern Ireland
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.two.northern.ireland.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Crime
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.crime.uk.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Music",MTV Music UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.music.uk.m3u8
